@@ -1,0 +1,22 @@
+{
+  "name": "flip_table_text",
+  "version": "1.0.0",
+  "description": "flip text when you're tired of flipping tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Korovyov/flip_table_text.git"
+  },
+  "keywords": [
+    "tableflip"
+  ],
+  "author": "Milan Loveless",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Korovyov/flip_table_text/issues"
+  },
+  "homepage": "https://github.com/Korovyov/flip_table_text"
+}

@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Korovyov/flip_table_text/issues"
   },
-  "homepage": "https://github.com/Korovyov/flip_table_text"
+  "homepage": "https://github.com/Korovyov/flip_table_text",
+  "dependencies": {
+    "upsidedown": "0.0.5"
+  }
 }
